@@ -1,0 +1,12 @@
+[package]
+name = "g-str"
+version = "0.1.0"
+description = "una librería desarrollada en rust, que evita la duplicación de cadenas en tu codigo"
+keywords = ["interning", "string", "g-str", "str"]
+edition = "2021"
+repository = "https://github.com/GabyDev0/g-str"
+
+authors = ["GabyDev0"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
