@@ -1,8 +1,10 @@
 [package]
 name = "g-str"
-version = "0.1.0"
+version = "0.2.0"
 description = "una librería desarrollada en rust, que evita la duplicación de cadenas en tu codigo"
 keywords = ["interning", "string", "g-str", "str"]
+license = "GPL-3.0"
+documentation = "https://docs.rs/g-str/0.2.0"
 edition = "2021"
 repository = "https://github.com/GabyDev0/g-str"
 
